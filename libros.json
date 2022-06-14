@@ -1,0 +1,26 @@
+[
+    {
+        "img": "img/penelope.jpg",
+        "titulo": "La tela de Penélope o quién engaña a quién",
+        "autor": "Augusto Monterroso",
+        "url" : "penelope.html"
+    },
+    {
+        "img": "img/montañas.jpg",
+        "titulo": "La fe y las montañas",
+        "autor": "Augusto Monterroso",
+        "url" : "montañas.html"
+    },
+    {
+        "img": "img/crimenes.jpg",
+        "titulo": "Los crimenes de la calle morgue",
+        "autor": "Edgar Allan Poe",
+        "url" : "morgue.html"
+    },
+    {
+        "img": "img/hamlet.jpg",
+        "titulo": "Hamlet",
+        "autor": "William Shakespeare",
+        "url" : "hamlet.html"
+    }
+]
